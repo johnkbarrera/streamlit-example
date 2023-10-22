@@ -23,7 +23,6 @@ forums](https://discuss.streamlit.io).
 
       <div class="container">
         <h1>Hi there, my name is Nikola 👋</h1>
-        <iframe src="https://databank.worldbank.org/data/download/dataviz/Donor&EDLevelPlot_GPE.html/"></iframe>
       </div>
     </div>
   </foreignObject>
