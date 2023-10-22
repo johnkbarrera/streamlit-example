@@ -17,3 +17,5 @@ forums](https://discuss.streamlit.io).
     </div>
   </foreignObject>
 </svg>
+
+<iframe src="https://databank.worldbank.org/data/download/dataviz/Donor&EDLevelPlot_GPE.html/" width="100%" height="500px"></iframe>
