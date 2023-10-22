@@ -14,7 +14,7 @@ forums](https://discuss.streamlit.io).
 
 In the meantime, below is an example of what you can do with just a few lines of code:
 
-<iframe src="https://databank.worldbank.org/data/download/dataviz/Donor&EDLevelPlot_GPE.html/" width="100%" height="500px"></iframe>
+<iframe src="https://databank.worldbank.org/data/download/dataviz/Donor&EDLevelPlot_GPE.html/"></iframe>
 
 """
 
